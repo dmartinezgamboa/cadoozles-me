@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box
+}
+
+h1 {
+  font-weight: 300;
+  font-size: larger;
+  color: violet
+}
+
+.project-link:hover {
+  background-color:blue;
+}
